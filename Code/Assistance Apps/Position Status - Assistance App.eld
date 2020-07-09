@@ -1,11 +1,11 @@
 Inputs:
 	UseJLCDFilter(0), 
-	JLCDLength(7),
+	JLCDLength(7);
 
 Vars:
 	MyJLCD(0),
 	JLCDAvg(0),
-	JLCDDiff(0),
+	JLCDDiff(0);
 
 
 If UseJLCDFilter = 1 then
